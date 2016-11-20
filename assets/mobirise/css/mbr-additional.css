@@ -482,6 +482,15 @@ h6,
 #msg-box6-0 .lead p {
   color: #fff;
 }
+#form1-2 .form-control-label {
+  color: #232323;
+}
+#form2-3 .mbr-section-title {
+  color: #fff;
+}
+#form2-3 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #features7-1 .card-subtitle {
   color: #bcbcbc;
 }
